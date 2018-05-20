@@ -3,6 +3,8 @@ This is the final project for Udacity MLND.
 
 The project consits of multiple files. 
 
+Proposal.pdf and project_report.pdf. 
+
 sentiment_analysis_train.ipynb consits of importing datasets and training the model. We use a total of 5 different optimized algorithms in train and save the models using pickel API 
 
 sentiment_analysis_predict.ipynb is an interactive file, consits of importing the saved models and validating them on test sets. 
